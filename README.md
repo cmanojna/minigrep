@@ -37,3 +37,9 @@ Run the test suite with:
 ```bash
 cargo test
 ```
+
+## 📚 Attribution & Origin
+
+This project is a direct implementation of the command-line utility project featured in Chapter 12 of [The Rust Programming Language Book](https://rust-lang.org) by Steve Klabnik and Carol Nichols.
+
+I built this repository to follow along with the official curriculum, practice the language syntax, and understand how to structure real-world Rust applications.
